@@ -1,6 +1,6 @@
 ## Описание
   **Shelter** - сайт приюта животных, где любой может выбрать себе питомца на его выбор.<br>
-  Проект создан для демонстрации навыков Pixel Perfect вёрстки в соответствии с дизайном из **Figma**, работы с основными HTML элементами и DOM API.
+  Проект создан для демонстрации навыков Pixel Perfect вёрстки в соответствии с дизайном из **Figma**, работы с основными HTML элементами и DOM API.<br>
   Сайт создан в рамках курса **JavaScript/Frontend** от [The Rolling Scopes School](rs.school) в мае 2023 года.
 
 ## Функционал
@@ -13,7 +13,6 @@
   - HTML
   - SASS (SCSS)
   - Core JavaScript
-  - Webpack
 
 ## Ссылки
   [Деплой](https://quaqvagit.github.io/shelter/)
