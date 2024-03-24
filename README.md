@@ -15,4 +15,4 @@
   - Core JavaScript
 
 ## Ссылки
-  [Деплой](https://quaqvagit.github.io/shelter/)
+  [Деплой](https://quaqqva.github.io/shelter/)
